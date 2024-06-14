@@ -1,0 +1,43 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 40px;
+}
+p{
+    color: brown;
+    text-align: center;
+    font-size: 2.5vh;
+}
+.d{
+    text-align: center;
+}
+.text{
+    font-size: 20px;
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+.btn{
+    font-size: 20px;
+    border: 2px solid green;
+    border-radius: 5px;
+    background-color: green;
+    color: aliceblue;
+    margin-left: 3px;
+}
+.data{
+    background-color: aqua;
+   margin-right: 25%;
+   margin-top: 20px;
+    padding: 20px;
+    margin-left: 20%;
+    font-weight: bold;
+    font-size: 3vh;
+}
+
+.dbtn{
+    background-color: red;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 70%;
+    border: 1px solid rgb(247, 3, 3);
+}
